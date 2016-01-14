@@ -1,2 +1,2 @@
 # test
-test  master
+test  1.0
